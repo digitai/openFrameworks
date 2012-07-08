@@ -1,0 +1,17 @@
+<ofx3DModelLoader>0</ofx3DModelLoader>
+<ofxAccelerometer>0</ofxAccelerometer>
+<ofxAndroid>0</ofxAndroid>
+<ofxAssimpModelLoader>0</ofxAssimpModelLoader>
+<ofxDirList>0</ofxDirList>
+<ofxGui>0</ofxGui>
+<ofxiPhone>0</ofxiPhone>
+<ofxMultiTouch>0</ofxMultiTouch>
+<ofxNetwork>0</ofxNetwork>
+<ofxOpenCv>0</ofxOpenCv>
+<ofxOsc>0</ofxOsc>
+<ofxSynth>0</ofxSynth>
+<ofxThread>0</ofxThread>
+<ofxThreadedImageLoader>0</ofxThreadedImageLoader>
+<ofxVectorGraphics>0</ofxVectorGraphics>
+<ofxVectorMath>0</ofxVectorMath>
+<ofxXmlSettings>0</ofxXmlSettings>
